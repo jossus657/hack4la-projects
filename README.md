@@ -7,11 +7,13 @@ Under California Grants:
 - California Grants EDA
 - California Grants Analysis: Part 2
 
+Labels Survey Analysis
+
 **Attached Data:**
 Under California Grants:
 - ca_grants.csv (raw data file)
 - ca_grants_clean.csv
 - grants_ongoing.csv (subset of cleaned data with only ongoing grants)
-- category_table.csv (tally of unique categories per grant(
+- category_table.csv (tally of unique categories per grant)
 
 Notes:
