@@ -1,0 +1,82 @@
+,Repository,Organization,Label,LabelStatus,counts
+910,website,hackforla,feature, Accessibility,148
+911,website,hackforla,feature, Administrative,102
+912,website,hackforla,feature, Analytics,10
+913,website,hackforla,feature, Board/GitHub Maintenance,91
+914,website,hackforla,feature, Design system,80
+915,website,hackforla,feature, Feature Branch,25
+916,website,hackforla,feature, Google Apps Scripts,6
+917,website,hackforla,feature, Infrastructure,24
+918,website,hackforla,feature, Onboarding/Contributing.md,166
+919,website,hackforla,feature, Refactor CSS,65
+920,website,hackforla,feature, Refactor GHA,15
+921,website,hackforla,feature, Refactor HTML,43
+922,website,hackforla,feature, Refactor JS / Liquid,52
+923,website,hackforla,feature, Standards,14
+924,website,hackforla,feature, Survey,1
+925,website,hackforla,feature, Tables,1
+926,website,hackforla,feature, Video Research,1
+927,website,hackforla,feature, Wiki,44
+928,website,hackforla,feature, research plan,11
+929,website,hackforla,feature, stakeholder updates,1
+930,website,hackforla,fun, Third Issue,32
+931,website,hackforla,ignore, Demo,12
+932,website,hackforla,ignore, Duplicate,34
+933,website,hackforla,ignore, No longer a problem,2
+934,website,hackforla,ignore, Test,79
+935,website,hackforla,p-feature, 404 page,5
+936,website,hackforla,p-feature, About Us,58
+937,website,hackforla,p-feature, Citizen Engagement,38
+938,website,hackforla,p-feature, Communities of Practice,30
+939,website,hackforla,p-feature, Contributors,1
+940,website,hackforla,p-feature, Credit,180
+941,website,hackforla,p-feature, Dashboard,4
+942,website,hackforla,p-feature, Donate,22
+943,website,hackforla,p-feature, Events,50
+944,website,hackforla,p-feature, Footer,9
+945,website,hackforla,p-feature, Getting Started,30
+946,website,hackforla,p-feature, Home page,42
+947,website,hackforla,p-feature, Impact,2
+948,website,hackforla,p-feature, Join Page,14
+949,website,hackforla,p-feature, Mobile,11
+950,website,hackforla,p-feature, Navigation,6
+951,website,hackforla,p-feature, Open roles,3
+952,website,hackforla,p-feature, Organizational Page,10
+953,website,hackforla,p-feature, Privacy Policy,4
+954,website,hackforla,p-feature, Program Area,39
+955,website,hackforla,p-feature, Project Info and Page,291
+956,website,hackforla,p-feature, Project Meetings,3
+957,website,hackforla,p-feature, Projects page,34
+958,website,hackforla,p-feature, Related Collateral,1
+959,website,hackforla,p-feature, SDG page,2
+960,website,hackforla,p-feature, Sitemap,13
+961,website,hackforla,p-feature, Toolkit,51
+962,website,hackforla,p-feature, Wins Page,142
+963,website,hackforla,role, BA,1
+964,website,hackforla,role, back end/devOps,615
+965,website,hackforla,role, design,119
+966,website,hackforla,role, dev leads,14
+967,website,hackforla,role, front end,1356
+968,website,hackforla,role, hfla leadership,5
+969,website,hackforla,role, infrastructure,22
+970,website,hackforla,role, legal,1
+971,website,hackforla,role, product,164
+972,website,hackforla,role, user research,58
+973,website,hackforla,role, writing,25
+974,website,hackforla,size, 0.5pt,371
+975,website,hackforla,size, 13+pt,9
+976,website,hackforla,size, 1pt,219
+977,website,hackforla,size, 2pt,68
+978,website,hackforla,size, 3pt,21
+979,website,hackforla,size, 5pt,5
+980,website,hackforla,size, 8pt,5
+981,website,hackforla,size, Good second issue,316
+982,website,hackforla,size, Large,151
+983,website,hackforla,size, Medium,443
+984,website,hackforla,size, Small,286
+985,website,hackforla,size, missing,46
+986,website,hackforla,status, Help Wanted,20
+987,website,hackforla,status, Updated,403
+988,website,hackforla,status, Urgent,82
+989,website,hackforla,uat, has visuals,30
+990,website,hackforla,uat, no visuals,18

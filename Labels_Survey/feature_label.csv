@@ -1,0 +1,283 @@
+,Repository,Organization,Label,LabelStatus,counts
+2,311-data,hackforla,feature, Communication,36
+3,311-data,hackforla,feature, Data Quality,4
+4,311-data,hackforla,feature, Documentation,19
+5,311-data,hackforla,feature, GitHub Board/Onboarding,10
+6,311-data,hackforla,feature, Meeting Notes/Agendas,2
+7,311-data,hackforla,feature, Missing,18
+8,311-data,hackforla,feature, Optimization,6
+9,311-data,hackforla,feature, Recruitment,1
+10,311-data,hackforla,feature, Site Analytics,3
+11,311-data,hackforla,feature, Stakeholder,5
+12,311-data,hackforla,feature, User Feedback,3
+13,311-data,hackforla,feature, guide,5
+49,CTI-website-backend,civictechindex,feature, tag generator,2
+54,CTI-website-frontend,civictechindex,feature, CfA Brigade Project Index,2
+55,CTI-website-frontend,civictechindex,feature, Google Analytics,2
+56,CTI-website-frontend,civictechindex,feature, code quality,26
+57,CTI-website-frontend,civictechindex,feature, design system,67
+58,CTI-website-frontend,civictechindex,feature, github/project administration,24
+59,CTI-website-frontend,civictechindex,feature, hosting,7
+60,CTI-website-frontend,civictechindex,feature, manual database action,1
+61,CTI-website-frontend,civictechindex,feature, missing,5
+62,CTI-website-frontend,civictechindex,feature, onboarding,24
+63,CTI-website-frontend,civictechindex,feature, product adoption,9
+64,CTI-website-frontend,civictechindex,feature, site architecture,22
+65,CTI-website-frontend,civictechindex,feature, user site testing,6
+121,CivicTechJobs,hackforla,feature, Agenda,8
+122,CivicTechJobs,hackforla,feature, Architecture,28
+123,CivicTechJobs,hackforla,feature, Documentation,16
+124,CivicTechJobs,hackforla,feature, GitHub Actions,4
+125,CivicTechJobs,hackforla,feature, GitHub setup,7
+126,CivicTechJobs,hackforla,feature, User Research,19
+127,CivicTechJobs,hackforla,feature, design system,13
+128,CivicTechJobs,hackforla,feature, marketing,4
+129,CivicTechJobs,hackforla,feature, passwords/keys/permissions,2
+130,CivicTechJobs,hackforla,feature, project meeting check,1
+131,CivicTechJobs,hackforla,feature, recruiting for CTJ,3
+132,CivicTechJobs,hackforla,feature, requirements gathering,7
+170,GreenEarthOS,hackforla,feature, Board/GithHub Maintenance,2
+171,GreenEarthOS,hackforla,feature, brand exercise,29
+172,GreenEarthOS,hackforla,feature, branding,31
+194,HomeUniteUs,hackforla,feature, Administrative,29
+195,HomeUniteUs,hackforla,feature, Architecture,30
+196,HomeUniteUs,hackforla,feature, Board/Github Maintenance,3
+197,HomeUniteUs,hackforla,feature, Design System,10
+198,HomeUniteUs,hackforla,feature, Infrastructure,4
+199,HomeUniteUs,hackforla,feature, Refactoring,1
+200,HomeUniteUs,hackforla,feature, Security/Regulatory Compliance,2
+201,HomeUniteUs,hackforla,feature, Testing,1
+202,HomeUniteUs,hackforla,feature, Wiki,1
+203,HomeUniteUs,hackforla,feature, missing,92
+237,UI-UX,hackforla,feature, guide creation,49
+238,UI-UX,hackforla,feature, research plans and components,1
+253,VRMS,hackforla,feature, Onboarding - p1,3
+254,VRMS,hackforla,feature, Project Management,13
+255,VRMS,hackforla,feature, Recurring Events,7
+256,VRMS,hackforla,feature, eslint warnings,45
+257,VRMS,hackforla,feature, missing,22
+258,VRMS,hackforla,feature, package update,16
+277,Website,100automations,feature, Architecture / Standards,10
+278,Website,100automations,feature, GitHub board/onboarding,3
+279,Website,100automations,feature, Project Framework,9
+280,Website,100automations,feature, Roadmap,4
+281,Website,100automations,feature, Service Journeys,16
+282,Website,100automations,feature, Usability testing,2
+283,Website,100automations,feature, accessibility,3
+284,Website,100automations,feature, image utilities,1
+285,Website,100automations,feature, missing,13
+286,Website,100automations,feature, outreach,3
+322,YouthJusticeNav,hackforla,feature, agenda,1
+323,YouthJusticeNav,hackforla,feature, board/google drive/tools,1
+324,YouthJusticeNav,hackforla,feature, missing,68
+325,YouthJusticeNav,hackforla,feature, volunteer onboarding,1
+336,access-the-data,hackforla,feature, ADA/WCAG Compliance,2
+337,access-the-data,hackforla,feature, Ecosystem Map,7
+338,access-the-data,hackforla,feature, administrative,36
+339,access-the-data,hackforla,feature, content,8
+340,access-the-data,hackforla,feature, design system,24
+341,access-the-data,hackforla,feature, github - wiki maintenance,4
+342,access-the-data,hackforla,feature, personas,3
+343,access-the-data,hackforla,feature, process documentation,3
+344,access-the-data,hackforla,feature, recruitment,10
+345,access-the-data,hackforla,feature, usability testing,10
+346,access-the-data,hackforla,feature, user research,20
+347,access-the-data,hackforla,feature, user stories,2
+348,access-the-data,hackforla,feature, website,34
+349,access-the-data,hackforla,feature, wireframes,4
+350,access-the-data,hackforla,feature, workshops,46
+378,admin,hackforla,feature, Agenda,1
+379,admin,hackforla,feature, guide creation,15
+380,admin,hackforla,feature, volunteer request,1
+386,ballotnav,hackforla,feature, Design system,1
+399,brigade2point0,hackforla,feature, donation,1
+400,brigade2point0,hackforla,feature, guides,1
+401,civic-opportunity,hackforla,feature, role descriptions,32
+423,data-science,hackforla,feature, branding,1
+424,data-science,hackforla,feature, guide,31
+425,data-science,hackforla,feature, labels,1
+426,data-science,hackforla,feature, missing,1
+427,data-science,hackforla,feature, needs peer review,1
+428,data-science,hackforla,feature, onboarding,2
+429,data-science,hackforla,feature, project management,6
+430,data-science,hackforla,feature, recruitment,1
+494,engineering,hackforla,feature, guide creation,6
+498,expunge-assist,hackforla,feature, Communication/Branding,1
+499,expunge-assist,hackforla,feature, GitHub/Project Board maintenance,6
+500,expunge-assist,hackforla,feature, Style Guide,4
+501,expunge-assist,hackforla,feature, agenda,7
+502,expunge-assist,hackforla,feature, figma content writing,44
+503,expunge-assist,hackforla,feature, figma design system,9
+504,expunge-assist,hackforla,feature, figma desktop prototype,2
+505,expunge-assist,hackforla,feature, figma heuristic evaluation,3
+506,expunge-assist,hackforla,feature, figma mobile prototype,2
+507,expunge-assist,hackforla,feature, figma wireframes,2
+508,expunge-assist,hackforla,feature, marketing plans,1
+509,expunge-assist,hackforla,feature, missing,78
+510,expunge-assist,hackforla,feature, onboard / offboard,3
+511,expunge-assist,hackforla,feature, outreach,20
+512,expunge-assist,hackforla,feature, recruitment,1
+513,expunge-assist,hackforla,feature, research analysis,3
+514,expunge-assist,hackforla,feature, research plans,8
+515,expunge-assist,hackforla,feature, roadmap,2
+516,expunge-assist,hackforla,feature, technical standards,3
+517,expunge-assist,hackforla,feature, usability testing,30
+518,expunge-assist,hackforla,feature, wiki,6
+546,food-oasis,hackforla,feature, Accessibility,13
+547,food-oasis,hackforla,feature, Administrative,18
+548,food-oasis,hackforla,feature, Agenda,5
+549,food-oasis,hackforla,feature, Analytics,6
+550,food-oasis,hackforla,feature, Board/Github Maintenance,6
+551,food-oasis,hackforla,feature, Design System,16
+552,food-oasis,hackforla,feature, Infrastructure,22
+553,food-oasis,hackforla,feature, Onboarding,4
+554,food-oasis,hackforla,feature, Search,7
+555,food-oasis,hackforla,feature, Testing,2
+556,food-oasis,hackforla,feature, Usability,27
+597,governance,hackforla,feature, 1password,2
+598,governance,hackforla,feature, stakeholder status,3
+601,guides,hackforla,feature,  Communications Guide,1
+602,guides,hackforla,feature, Cleanup Guide,23
+603,guides,hackforla,feature, Design System,1
+604,guides,hackforla,feature, administrative,13
+605,guides,hackforla,feature, board/GitHub maintenance,1
+606,guides,hackforla,feature, evangelize,1
+607,guides,hackforla,feature, guide conversion,1
+608,guides,hackforla,feature, offboarding,2
+609,guides,hackforla,feature, onboarding,21
+610,guides,hackforla,feature, trackers,16
+611,guides,hackforla,feature, user research,3
+612,guides,hackforla,feature, weekly tasks,1
+613,guides,hackforla,feature, workflow,4
+629,internship,hackforla,feature, C&C Analysis,8
+630,internship,hackforla,feature, FAQ for Volunteers,1
+631,internship,hackforla,feature, HfLA: research training,2
+632,internship,hackforla,feature, HfLA: volunteer personas,1
+633,internship,hackforla,feature, IS21: cohort analysis,1
+634,internship,hackforla,feature, IS21: cohort interviews,7
+635,internship,hackforla,feature, IS22 cohort,42
+636,internship,hackforla,feature, Intern cohort survey,1
+637,internship,hackforla,feature, RP1,12
+638,internship,hackforla,feature, RP2,3
+639,internship,hackforla,feature, RP3,3
+640,internship,hackforla,feature, RP4,3
+641,internship,hackforla,feature, RP5,8
+642,internship,hackforla,feature, RP6,5
+643,internship,hackforla,feature, RP7,2
+644,internship,hackforla,feature, RP8,3
+645,internship,hackforla,feature, agenda,6
+646,internship,hackforla,feature, audience development,1
+647,internship,hackforla,feature, board / google drive / tools,11
+648,internship,hackforla,feature, board cleanup,1
+649,internship,hackforla,feature, branding,46
+650,internship,hackforla,feature, deck,1
+651,internship,hackforla,feature, evangelize,1
+652,internship,hackforla,feature, find speaking opportunities,1
+653,internship,hackforla,feature, funding,1
+654,internship,hackforla,feature, guide,3
+655,internship,hackforla,feature, hypothesis,1
+656,internship,hackforla,feature, intern personas,1
+657,internship,hackforla,feature, logo,2
+658,internship,hackforla,feature, metrics,4
+659,internship,hackforla,feature, missing,14
+660,internship,hackforla,feature, one sheet,2
+661,internship,hackforla,feature, overview,1
+662,internship,hackforla,feature, partner communication,4
+663,internship,hackforla,feature, recruitment,9
+664,internship,hackforla,feature, research audits,1
+665,internship,hackforla,feature, research plan,2
+666,internship,hackforla,feature, retention,1
+667,internship,hackforla,feature, roadmap,4
+668,internship,hackforla,feature, skills assesment,1
+669,internship,hackforla,feature, stats,1
+670,internship,hackforla,feature, test,1
+671,internship,hackforla,feature, testing,1
+672,internship,hackforla,feature, volunteer onboarding,9
+673,internship,hackforla,feature, wiki,8
+702,lucky-parking,hackforla,feature, GitHub hygiene,7
+703,lucky-parking,hackforla,feature, agenda,2
+704,lucky-parking,hackforla,feature, api endpoints,1
+705,lucky-parking,hackforla,feature, automation/GitHub actions,3
+706,lucky-parking,hackforla,feature, code structure,1
+707,lucky-parking,hackforla,feature, data science,2
+708,lucky-parking,hackforla,feature, database,7
+709,lucky-parking,hackforla,feature, middleware,1
+710,lucky-parking,hackforla,feature, new feature ideation,8
+711,lucky-parking,hackforla,feature, project marketing,2
+712,lucky-parking,hackforla,feature, recruitment/onboarding,7
+713,lucky-parking,hackforla,feature, refactor,1
+714,lucky-parking,hackforla,feature, security,4
+715,lucky-parking,hackforla,feature, wiki,2
+748,marketing,hackforla,feature, Guide,1
+749,marketing,hackforla,feature, article,1
+750,marketing,hackforla,feature, marketing inventory checklist,8
+751,marketing,hackforla,feature, marketing objectives,18
+752,marketing,hackforla,feature, template,2
+770,open-community-survey,hackforla,feature, Analytics,1
+771,open-community-survey,hackforla,feature, Board/GitHub Maintenance,7
+772,open-community-survey,hackforla,feature, Communication/Branding,4
+773,open-community-survey,hackforla,feature, Comparative Analysis,11
+774,open-community-survey,hackforla,feature, Epic,7
+775,open-community-survey,hackforla,feature, Expert Interviews,1
+776,open-community-survey,hackforla,feature, Figma/Miro/FigJam Setup,14
+777,open-community-survey,hackforla,feature, Framework Project Publication,2
+778,open-community-survey,hackforla,feature, Guides Creation,1
+779,open-community-survey,hackforla,feature, HfLA Website,5
+780,open-community-survey,hackforla,feature, Impact Interview,7
+781,open-community-survey,hackforla,feature, Meeting/Agenda,2
+782,open-community-survey,hackforla,feature, Onboarding,2
+783,open-community-survey,hackforla,feature, One Sheet,1
+784,open-community-survey,hackforla,feature, Personas,4
+785,open-community-survey,hackforla,feature, Recruitment,12
+786,open-community-survey,hackforla,feature, Roadmap,18
+787,open-community-survey,hackforla,feature, Social Media,1
+788,open-community-survey,hackforla,feature, Survey,1
+789,open-community-survey,hackforla,feature, Usability Testing,3
+790,open-community-survey,hackforla,feature, Wiki,1
+791,open-community-survey,hackforla,feature, service map,1
+814,ops,hackforla,feature, AWS IAM,1
+815,ops,hackforla,feature, Roadmap,2
+816,ops,hackforla,feature, administrative,3
+817,ops,hackforla,feature, agenda,2
+818,ops,hackforla,feature, guide creation,5
+819,ops,hackforla,feature, incubator,1
+820,ops,hackforla,feature, labels,2
+821,ops,hackforla,feature, missing,2
+822,ops,hackforla,feature, monitoring,1
+823,ops,hackforla,feature, slackbot,2
+839,peopledepot,hackforla,feature, table creation,3
+843,product-management,hackforla,feature, agenda,9
+844,product-management,hackforla,feature, deck profile card,13
+845,product-management,hackforla,feature, experience profile,79
+846,product-management,hackforla,feature, guide creation,65
+847,product-management,hackforla,feature, one sheet,37
+848,product-management,hackforla,feature, privacy policy,1
+849,product-management,hackforla,feature, project inventory,25
+850,product-management,hackforla,feature, project profile card,16
+851,product-management,hackforla,feature, recruitment,4
+852,product-management,hackforla,feature, terms and conditions,1
+861,revenue,hackforla,feature, Guide,3
+868,shared-housing,hackforla,feature, dashboard,21
+869,shared-housing,hackforla,feature, form,17
+877,tables,hackforla,feature, GitHub Maintenance,1
+888,tdm-calculator,hackforla,feature, missing,6
+910,website,hackforla,feature, Accessibility,148
+911,website,hackforla,feature, Administrative,102
+912,website,hackforla,feature, Analytics,10
+913,website,hackforla,feature, Board/GitHub Maintenance,91
+914,website,hackforla,feature, Design system,80
+915,website,hackforla,feature, Feature Branch,25
+916,website,hackforla,feature, Google Apps Scripts,6
+917,website,hackforla,feature, Infrastructure,24
+918,website,hackforla,feature, Onboarding/Contributing.md,166
+919,website,hackforla,feature, Refactor CSS,65
+920,website,hackforla,feature, Refactor GHA,15
+921,website,hackforla,feature, Refactor HTML,43
+922,website,hackforla,feature, Refactor JS / Liquid,52
+923,website,hackforla,feature, Standards,14
+924,website,hackforla,feature, Survey,1
+925,website,hackforla,feature, Tables,1
+926,website,hackforla,feature, Video Research,1
+927,website,hackforla,feature, Wiki,44
+928,website,hackforla,feature, research plan,11
+929,website,hackforla,feature, stakeholder updates,1

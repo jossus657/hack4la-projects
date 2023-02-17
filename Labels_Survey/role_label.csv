@@ -1,0 +1,182 @@
+,Repository,Organization,Label,LabelStatus,counts
+29,311-data,hackforla,role, Backend,110
+30,311-data,hackforla,role, Data Science,46
+31,311-data,hackforla,role, DevOps,47
+32,311-data,hackforla,role, Frontend,207
+33,311-data,hackforla,role, Marketing,2
+34,311-data,hackforla,role, Missing,10
+35,311-data,hackforla,role, Product Management,35
+36,311-data,hackforla,role, UI/UX,70
+37,311-data,hackforla,role, UI/UX Design,11
+38,311-data,hackforla,role, UI/UX Research,4
+39,311-data,hackforla,role, data analysis,5
+50,CTI-website-backend,civictechindex,role, backend,4
+100,CTI-website-frontend,civictechindex,role, UI/UX,125
+101,CTI-website-frontend,civictechindex,role, back end,83
+102,CTI-website-frontend,civictechindex,role, communications,8
+103,CTI-website-frontend,civictechindex,role, database,8
+104,CTI-website-frontend,civictechindex,role, dev ops,5
+105,CTI-website-frontend,civictechindex,role, front end,395
+106,CTI-website-frontend,civictechindex,role, marketing,11
+107,CTI-website-frontend,civictechindex,role, missing,20
+108,CTI-website-frontend,civictechindex,role, product management,118
+109,CTI-website-frontend,civictechindex,role, project management,44
+110,CTI-website-frontend,civictechindex,role, stakeholder,1
+111,CTI-website-frontend,civictechindex,role, testing,31
+147,CivicTechJobs,hackforla,role, UI/UX - Design,56
+148,CivicTechJobs,hackforla,role, UI/UX - Research,24
+149,CivicTechJobs,hackforla,role, backend,25
+150,CivicTechJobs,hackforla,role, devops,9
+151,CivicTechJobs,hackforla,role, frontend,46
+152,CivicTechJobs,hackforla,role, org,5
+153,CivicTechJobs,hackforla,role, product,31
+179,GreenEarthOS,hackforla,role, Backend Developer,1
+180,GreenEarthOS,hackforla,role, UI/UX designer,11
+181,GreenEarthOS,hackforla,role, UI/UX researcher,45
+182,GreenEarthOS,hackforla,role, business analyst,5
+183,GreenEarthOS,hackforla,role, data analyst,1
+184,GreenEarthOS,hackforla,role, data scientist,1
+185,GreenEarthOS,hackforla,role, missing,13
+186,GreenEarthOS,hackforla,role, product management,73
+187,GreenEarthOS,hackforla,role, product owner,4
+227,HomeUniteUs,hackforla,role, Back End,28
+228,HomeUniteUs,hackforla,role, DevOps,2
+229,HomeUniteUs,hackforla,role, Front End,47
+230,HomeUniteUs,hackforla,role, PM,78
+231,HomeUniteUs,hackforla,role, UI/UX,62
+232,HomeUniteUs,hackforla,role, missing,39
+247,UI-UX,hackforla,role, CoP Lead - Design,1
+248,UI-UX,hackforla,role, CoP Lead - content,1
+249,UI-UX,hackforla,role, Content,1
+250,UI-UX,hackforla,role, UI Design,12
+251,UI-UX,hackforla,role, UX Research,5
+265,VRMS,hackforla,role, Back End,127
+266,VRMS,hackforla,role, Database,29
+267,VRMS,hackforla,role, Front End,226
+268,VRMS,hackforla,role, Missing,33
+269,VRMS,hackforla,role, Product,5
+270,VRMS,hackforla,role, devops,6
+307,Website,100automations,role, UI/UX,56
+308,Website,100automations,role, administrative,11
+309,Website,100automations,role, back end,25
+310,Website,100automations,role, content writing,36
+311,Website,100automations,role, front end,86
+312,Website,100automations,role, marketing,23
+313,Website,100automations,role, missing,1
+314,Website,100automations,role, product,103
+315,Website,100automations,role, project management,39
+327,YouthJusticeNav,hackforla,role, UI/UX design,4
+328,YouthJusticeNav,hackforla,role, UI/UX research,10
+329,YouthJusticeNav,hackforla,role, content writing,2
+330,YouthJusticeNav,hackforla,role, missing,22
+331,YouthJusticeNav,hackforla,role, org rep,2
+332,YouthJusticeNav,hackforla,role, product,36
+353,access-the-data,hackforla,role, content,9
+354,access-the-data,hackforla,role, data analyst,42
+355,access-the-data,hackforla,role, design,27
+356,access-the-data,hackforla,role, engineering,1
+357,access-the-data,hackforla,role, org,1
+358,access-the-data,hackforla,role, product management,36
+359,access-the-data,hackforla,role, project management,16
+360,access-the-data,hackforla,role, research,53
+381,admin,hackforla,role, org,1
+382,admin,hackforla,role, product,3
+387,ballotnav,hackforla,role, Data,6
+388,ballotnav,hackforla,role, UI/UX,57
+389,ballotnav,hackforla,role, back end/devOps,57
+390,ballotnav,hackforla,role, design,3
+391,ballotnav,hackforla,role, front end,65
+392,ballotnav,hackforla,role, product,21
+393,ballotnav,hackforla,role, user research,4
+394,ballotnav,hackforla,role, writer,2
+395,ballotnav,hackforla,role, writing,5
+407,civic-opportunity,hackforla,role, content strategist/writer,3
+408,civic-opportunity,hackforla,role, data analyst,4
+409,civic-opportunity,hackforla,role, marketing,7
+410,civic-opportunity,hackforla,role, partner management,17
+411,civic-opportunity,hackforla,role, pilot owner,21
+412,civic-opportunity,hackforla,role, product management,88
+413,civic-opportunity,hackforla,role, ux designer,8
+414,civic-opportunity,hackforla,role, ux research,25
+415,community-survey-nc-websites,hackforla,role, Product/Project Management,2
+416,community-survey-nc-websites,hackforla,role, front end,1
+417,community-survey-nc-websites,hackforla,role, ui,2
+418,community-survey-nc-websites,hackforla,role, ux research,1
+448,data-science,hackforla,role, CoP lead,4
+449,data-science,hackforla,role, Data Engineer,1
+450,data-science,hackforla,role, data analysis,11
+451,data-science,hackforla,role, data science,8
+452,data-science,hackforla,role, org,14
+453,data-science,hackforla,role, product,17
+529,expunge-assist,hackforla,role, UX content writing,63
+530,expunge-assist,hackforla,role, communications,8
+531,expunge-assist,hackforla,role, design,61
+532,expunge-assist,hackforla,role, development,134
+533,expunge-assist,hackforla,role, missing,5
+534,expunge-assist,hackforla,role, product management,34
+535,expunge-assist,hackforla,role, research,114
+582,food-oasis,hackforla,role, Back-end,48
+583,food-oasis,hackforla,role, Business Analysis / Product,33
+584,food-oasis,hackforla,role, Copywriting,7
+585,food-oasis,hackforla,role, Database,7
+586,food-oasis,hackforla,role, Design UI/UX,96
+587,food-oasis,hackforla,role, Front-end,175
+588,food-oasis,hackforla,role, Product Management,58
+589,food-oasis,hackforla,role, User Research,17
+596,futureautomations,100automations,role, administrative,14
+617,guides,hackforla,role, Product,92
+618,guides,hackforla,role, UI/UX,2
+619,guides,hackforla,role, UI/UX research,3
+620,guides,hackforla,role, design,1
+621,guides,hackforla,role, front end,1
+622,guides,hackforla,role, missing,1
+628,incubator,hackforla,role, Dev Ops Engineer,1
+682,internship,hackforla,role, Org Rep,6
+683,internship,hackforla,role, Product,123
+684,internship,hackforla,role, UI/UX design,23
+685,internship,hackforla,role, UI/UX research,41
+686,internship,hackforla,role, UX writer,4
+687,internship,hackforla,role, data scientist,3
+688,internship,hackforla,role, intern,28
+689,internship,hackforla,role, missing,8
+726,lucky-parking,hackforla,role, backend,13
+727,lucky-parking,hackforla,role, data scientist,14
+728,lucky-parking,hackforla,role, dev,65
+729,lucky-parking,hackforla,role, devops,11
+730,lucky-parking,hackforla,role, frontend,15
+731,lucky-parking,hackforla,role, product manager,24
+732,lucky-parking,hackforla,role, ui/ux,20
+755,marketing,hackforla,role, Product Management,1
+756,marketing,hackforla,role, social media marketing,2
+803,open-community-survey,hackforla,role, Data Science,2
+804,open-community-survey,hackforla,role, Product,74
+805,open-community-survey,hackforla,role, UI/UX Design,19
+806,open-community-survey,hackforla,role, UI/UX Research,19
+807,open-community-survey,hackforla,role, writer,1
+826,ops,hackforla,role, CoP lead,8
+827,ops,hackforla,role, Org,3
+828,ops,hackforla,role, Site Reliability Engineer,9
+829,ops,hackforla,role, missing,1
+840,peopledepot,hackforla,role, back end,3
+853,product-management,hackforla,role, CoP lead,7
+876,start-here,hackla-engage,role, UX,2
+883,tables,hackforla,role, product,1
+902,tdm-calculator,hackforla,role, Project Management,56
+903,tdm-calculator,hackforla,role, back-end,122
+904,tdm-calculator,hackforla,role, database,99
+905,tdm-calculator,hackforla,role, front-end,245
+906,tdm-calculator,hackforla,role, missing,13
+907,tdm-calculator,hackforla,role, ui/ux,108
+908,tdm-calculator,hackforla,role, ui/ux design,9
+909,tdm-calculator,hackforla,role, ui/ux research,11
+963,website,hackforla,role, BA,1
+964,website,hackforla,role, back end/devOps,615
+965,website,hackforla,role, design,119
+966,website,hackforla,role, dev leads,14
+967,website,hackforla,role, front end,1356
+968,website,hackforla,role, hfla leadership,5
+969,website,hackforla,role, infrastructure,22
+970,website,hackforla,role, legal,1
+971,website,hackforla,role, product,164
+972,website,hackforla,role, user research,58
+973,website,hackforla,role, writing,25

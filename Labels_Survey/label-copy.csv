@@ -1,0 +1,992 @@
+,Repository,Organization,Label,LabelStatus,counts
+0,311-data,hackforla,epic, 311 public data sets,3
+1,311-data,hackforla,epic, Pre-launch Testing Internal,1
+2,311-data,hackforla,feature, Communication,36
+3,311-data,hackforla,feature, Data Quality,4
+4,311-data,hackforla,feature, Documentation,19
+5,311-data,hackforla,feature, GitHub Board/Onboarding,10
+6,311-data,hackforla,feature, Meeting Notes/Agendas,2
+7,311-data,hackforla,feature, Missing,18
+8,311-data,hackforla,feature, Optimization,6
+9,311-data,hackforla,feature, Recruitment,1
+10,311-data,hackforla,feature, Site Analytics,3
+11,311-data,hackforla,feature, Stakeholder,5
+12,311-data,hackforla,feature, User Feedback,3
+13,311-data,hackforla,feature, guide,5
+14,311-data,hackforla,missing, Milestone,24
+15,311-data,hackforla,p-feature, About,8
+16,311-data,hackforla,p-feature, Accessibility,23
+17,311-data,hackforla,p-feature, Analytics,2
+18,311-data,hackforla,p-feature, Contact Us,8
+19,311-data,hackforla,p-feature, Desktop,7
+20,311-data,hackforla,p-feature, FAQ,7
+21,311-data,hackforla,p-feature, Footer,4
+22,311-data,hackforla,p-feature, Map,47
+23,311-data,hackforla,p-feature, Mobile,6
+24,311-data,hackforla,p-feature, Navigation,7
+25,311-data,hackforla,p-feature, Privacy Policy,6
+26,311-data,hackforla,p-feature, Reports,18
+27,311-data,hackforla,p-feature, User Management,2
+28,311-data,hackforla,project, 311-data-dashboards,8
+29,311-data,hackforla,role, Backend,110
+30,311-data,hackforla,role, Data Science,46
+31,311-data,hackforla,role, DevOps,47
+32,311-data,hackforla,role, Frontend,207
+33,311-data,hackforla,role, Marketing,2
+34,311-data,hackforla,role, Missing,10
+35,311-data,hackforla,role, Product Management,35
+36,311-data,hackforla,role, UI/UX,70
+37,311-data,hackforla,role, UI/UX Design,11
+38,311-data,hackforla,role, UI/UX Research,4
+39,311-data,hackforla,role, data analysis,5
+40,311-data,hackforla,size, 13pt,6
+41,311-data,hackforla,size, 1pt,17
+42,311-data,hackforla,size, 2pt,31
+43,311-data,hackforla,size, 3pt,46
+44,311-data,hackforla,size, 5pt,35
+45,311-data,hackforla,size, 8pt,20
+46,311-data,hackforla,size, Missing,70
+47,311-data,hackforla,size, epic,1
+48,CTI-website-backend,civictechindex,api integration, CTI database,1
+49,CTI-website-backend,civictechindex,feature, tag generator,2
+50,CTI-website-backend,civictechindex,role, backend,4
+51,CTI-website-frontend,civictechindex,api integration, CFA's Taxonomy,1
+52,CTI-website-frontend,civictechindex,api integration, CTI database,17
+53,CTI-website-frontend,civictechindex,api integration, GitHub,6
+54,CTI-website-frontend,civictechindex,feature, CfA Brigade Project Index,2
+55,CTI-website-frontend,civictechindex,feature, Google Analytics,2
+56,CTI-website-frontend,civictechindex,feature, code quality,26
+57,CTI-website-frontend,civictechindex,feature, design system,67
+58,CTI-website-frontend,civictechindex,feature, github/project administration,24
+59,CTI-website-frontend,civictechindex,feature, hosting,7
+60,CTI-website-frontend,civictechindex,feature, manual database action,1
+61,CTI-website-frontend,civictechindex,feature, missing,5
+62,CTI-website-frontend,civictechindex,feature, onboarding,24
+63,CTI-website-frontend,civictechindex,feature, product adoption,9
+64,CTI-website-frontend,civictechindex,feature, site architecture,22
+65,CTI-website-frontend,civictechindex,feature, user site testing,6
+66,CTI-website-frontend,civictechindex,milestone, missing,33
+67,CTI-website-frontend,civictechindex,okr, 00.01,2
+68,CTI-website-frontend,civictechindex,okr, 01.02,8
+69,CTI-website-frontend,civictechindex,okr, 01.03,2
+70,CTI-website-frontend,civictechindex,p-feature, 404 page,2
+71,CTI-website-frontend,civictechindex,p-feature, CTI Assets Kit,2
+72,CTI-website-frontend,civictechindex,p-feature, Navigation,18
+73,CTI-website-frontend,civictechindex,p-feature, Organizations,106
+74,CTI-website-frontend,civictechindex,p-feature, about,15
+75,CTI-website-frontend,civictechindex,p-feature, add organization,26
+76,CTI-website-frontend,civictechindex,p-feature, collaboration,19
+77,CTI-website-frontend,civictechindex,p-feature, contact us,10
+78,CTI-website-frontend,civictechindex,p-feature, donation,6
+79,CTI-website-frontend,civictechindex,p-feature, faq,28
+80,CTI-website-frontend,civictechindex,p-feature, footer,23
+81,CTI-website-frontend,civictechindex,p-feature, home,26
+82,CTI-website-frontend,civictechindex,p-feature, how to get started,7
+83,CTI-website-frontend,civictechindex,p-feature, how-to (depreciated),3
+84,CTI-website-frontend,civictechindex,p-feature, indvOrgPage,6
+85,CTI-website-frontend,civictechindex,p-feature, landing page,8
+86,CTI-website-frontend,civictechindex,p-feature, link checker,2
+87,CTI-website-frontend,civictechindex,p-feature, page header,6
+88,CTI-website-frontend,civictechindex,p-feature, privacy policy,4
+89,CTI-website-frontend,civictechindex,p-feature, project card,7
+90,CTI-website-frontend,civictechindex,p-feature, search,25
+91,CTI-website-frontend,civictechindex,p-feature, share,14
+92,CTI-website-frontend,civictechindex,p-feature, subscribe,2
+93,CTI-website-frontend,civictechindex,p-feature, support,11
+94,CTI-website-frontend,civictechindex,p-feature, tag generator wizard,102
+95,CTI-website-frontend,civictechindex,p-feature, tag suggestion,2
+96,CTI-website-frontend,civictechindex,priority, High,38
+97,CTI-website-frontend,civictechindex,priority, Low,15
+98,CTI-website-frontend,civictechindex,priority, Medium,36
+99,CTI-website-frontend,civictechindex,priority, missing,1
+100,CTI-website-frontend,civictechindex,role, UI/UX,125
+101,CTI-website-frontend,civictechindex,role, back end,83
+102,CTI-website-frontend,civictechindex,role, communications,8
+103,CTI-website-frontend,civictechindex,role, database,8
+104,CTI-website-frontend,civictechindex,role, dev ops,5
+105,CTI-website-frontend,civictechindex,role, front end,395
+106,CTI-website-frontend,civictechindex,role, marketing,11
+107,CTI-website-frontend,civictechindex,role, missing,20
+108,CTI-website-frontend,civictechindex,role, product management,118
+109,CTI-website-frontend,civictechindex,role, project management,44
+110,CTI-website-frontend,civictechindex,role, stakeholder,1
+111,CTI-website-frontend,civictechindex,role, testing,31
+112,CTI-website-frontend,civictechindex,size, 13+pt,4
+113,CTI-website-frontend,civictechindex,size, 1pt,199
+114,CTI-website-frontend,civictechindex,size, 2pt,31
+115,CTI-website-frontend,civictechindex,size, 3pt,9
+116,CTI-website-frontend,civictechindex,size, 5pt,7
+117,CTI-website-frontend,civictechindex,size, 8pt,2
+118,CTI-website-frontend,civictechindex,size, large,4
+119,CTI-website-frontend,civictechindex,size, medium,11
+120,CTI-website-frontend,civictechindex,size, missing,446
+121,CivicTechJobs,hackforla,feature, Agenda,8
+122,CivicTechJobs,hackforla,feature, Architecture,28
+123,CivicTechJobs,hackforla,feature, Documentation,16
+124,CivicTechJobs,hackforla,feature, GitHub Actions,4
+125,CivicTechJobs,hackforla,feature, GitHub setup,7
+126,CivicTechJobs,hackforla,feature, User Research,19
+127,CivicTechJobs,hackforla,feature, design system,13
+128,CivicTechJobs,hackforla,feature, marketing,4
+129,CivicTechJobs,hackforla,feature, passwords/keys/permissions,2
+130,CivicTechJobs,hackforla,feature, project meeting check,1
+131,CivicTechJobs,hackforla,feature, recruiting for CTJ,3
+132,CivicTechJobs,hackforla,feature, requirements gathering,7
+133,CivicTechJobs,hackforla,p-feature, All Filters,4
+134,CivicTechJobs,hackforla,p-feature, CMS,12
+135,CivicTechJobs,hackforla,p-feature, Components,15
+136,CivicTechJobs,hackforla,p-feature, How to join page,5
+137,CivicTechJobs,hackforla,p-feature, Landing Page,29
+138,CivicTechJobs,hackforla,p-feature, Login page,1
+139,CivicTechJobs,hackforla,p-feature, Navigation,11
+140,CivicTechJobs,hackforla,p-feature, Search Page,12
+141,CivicTechJobs,hackforla,p-feature, Search results,13
+142,CivicTechJobs,hackforla,p-feature, Self-filter,7
+143,CivicTechJobs,hackforla,p1, Highest,4
+144,CivicTechJobs,hackforla,p2, Med-high,7
+145,CivicTechJobs,hackforla,p3, Med,3
+146,CivicTechJobs,hackforla,p4, Low,2
+147,CivicTechJobs,hackforla,role, UI/UX - Design,56
+148,CivicTechJobs,hackforla,role, UI/UX - Research,24
+149,CivicTechJobs,hackforla,role, backend,25
+150,CivicTechJobs,hackforla,role, devops,9
+151,CivicTechJobs,hackforla,role, frontend,46
+152,CivicTechJobs,hackforla,role, org,5
+153,CivicTechJobs,hackforla,role, product,31
+154,CivicTechJobs,hackforla,size, 13pt+,11
+155,CivicTechJobs,hackforla,size, 1pt,69
+156,CivicTechJobs,hackforla,size, 2pt,48
+157,CivicTechJobs,hackforla,size, 3pt,34
+158,CivicTechJobs,hackforla,size, 5pt,18
+159,CivicTechJobs,hackforla,size, 8pt,6
+160,CouncilML,hackla-engage,priority, High,1
+161,CouncilML,hackla-engage,status, In-Progress,1
+162,CouncilML,hackla-engage,type, Enhancement,1
+163,GreenEarthOS,hackforla,bucket, All,95
+164,GreenEarthOS,hackforla,bucket, Climate Collabathon,8
+165,GreenEarthOS,hackforla,bucket, Climate Conferences,10
+166,GreenEarthOS,hackforla,bucket, Climate projects,7
+167,GreenEarthOS,hackforla,bucket, Ecosystem Map,10
+168,GreenEarthOS,hackforla,bucket, Event Production,12
+169,GreenEarthOS,hackforla,bucket, Funders,1
+170,GreenEarthOS,hackforla,feature, Board/GithHub Maintenance,2
+171,GreenEarthOS,hackforla,feature, brand exercise,29
+172,GreenEarthOS,hackforla,feature, branding,31
+173,GreenEarthOS,hackforla,framework, Communication,1
+174,GreenEarthOS,hackforla,framework, Partner Management,2
+175,GreenEarthOS,hackforla,framework, Persona,1
+176,GreenEarthOS,hackforla,milestone, missing,28
+177,GreenEarthOS,hackforla,people, 1,1
+178,GreenEarthOS,hackforla,people, 1+,2
+179,GreenEarthOS,hackforla,role, Backend Developer,1
+180,GreenEarthOS,hackforla,role, UI/UX designer,11
+181,GreenEarthOS,hackforla,role, UI/UX researcher,45
+182,GreenEarthOS,hackforla,role, business analyst,5
+183,GreenEarthOS,hackforla,role, data analyst,1
+184,GreenEarthOS,hackforla,role, data scientist,1
+185,GreenEarthOS,hackforla,role, missing,13
+186,GreenEarthOS,hackforla,role, product management,73
+187,GreenEarthOS,hackforla,role, product owner,4
+188,GreenEarthOS,hackforla,size, 13pt,5
+189,GreenEarthOS,hackforla,size, 1pt,94
+190,GreenEarthOS,hackforla,size, 2pt,11
+191,GreenEarthOS,hackforla,size, 3pt,2
+192,GreenEarthOS,hackforla,size, 5pt,2
+193,GreenEarthOS,hackforla,size, missing,1
+194,HomeUniteUs,hackforla,feature, Administrative,29
+195,HomeUniteUs,hackforla,feature, Architecture,30
+196,HomeUniteUs,hackforla,feature, Board/Github Maintenance,3
+197,HomeUniteUs,hackforla,feature, Design System,10
+198,HomeUniteUs,hackforla,feature, Infrastructure,4
+199,HomeUniteUs,hackforla,feature, Refactoring,1
+200,HomeUniteUs,hackforla,feature, Security/Regulatory Compliance,2
+201,HomeUniteUs,hackforla,feature, Testing,1
+202,HomeUniteUs,hackforla,feature, Wiki,1
+203,HomeUniteUs,hackforla,feature, missing,92
+204,HomeUniteUs,hackforla,milestone, missing,103
+205,HomeUniteUs,hackforla,p-feature, Application Guest,2
+206,HomeUniteUs,hackforla,p-feature, Application Host,15
+207,HomeUniteUs,hackforla,p-feature, Dashboard Admin Coordinator,3
+208,HomeUniteUs,hackforla,p-feature, Dashboard Coordinator,22
+209,HomeUniteUs,hackforla,p-feature, Dashboard Guest,16
+210,HomeUniteUs,hackforla,p-feature, Dashboard Host,13
+211,HomeUniteUs,hackforla,p-feature, Guest Registration,9
+212,HomeUniteUs,hackforla,p-feature, Host Registration,15
+213,HomeUniteUs,hackforla,p-feature, Host dashboard,1
+214,HomeUniteUs,hackforla,p-feature, IAM,11
+215,HomeUniteUs,hackforla,p-feature, Landing Page,3
+216,HomeUniteUs,hackforla,p-feature, Matching,1
+217,HomeUniteUs,hackforla,p-feature, Profile Coordinator,3
+218,HomeUniteUs,hackforla,p-feature, Profile Guest,4
+219,HomeUniteUs,hackforla,p-feature, Profile Host,3
+220,HomeUniteUs,hackforla,points, 1,53
+221,HomeUniteUs,hackforla,points, 13+,4
+222,HomeUniteUs,hackforla,points, 2,39
+223,HomeUniteUs,hackforla,points, 3,12
+224,HomeUniteUs,hackforla,points, 5,4
+225,HomeUniteUs,hackforla,points, 8,2
+226,HomeUniteUs,hackforla,points, missing,125
+227,HomeUniteUs,hackforla,role, Back End,28
+228,HomeUniteUs,hackforla,role, DevOps,2
+229,HomeUniteUs,hackforla,role, Front End,47
+230,HomeUniteUs,hackforla,role, PM,78
+231,HomeUniteUs,hackforla,role, UI/UX,62
+232,HomeUniteUs,hackforla,role, missing,39
+233,UI-UX,hackforla,complexity, good first issue,9
+234,UI-UX,hackforla,complexity, large,2
+235,UI-UX,hackforla,complexity, medium,2
+236,UI-UX,hackforla,complexity, small,1
+237,UI-UX,hackforla,feature, guide creation,49
+238,UI-UX,hackforla,feature, research plans and components,1
+239,UI-UX,hackforla,guide, Draft Guide,2
+240,UI-UX,hackforla,guide, Draft Template,1
+241,UI-UX,hackforla,guide, Gather Examples,23
+242,UI-UX,hackforla,guide, Leadership Edits Requested,3
+243,UI-UX,hackforla,guide, Leadership Review,3
+244,UI-UX,hackforla,guide, Place Guide,1
+245,UI-UX,hackforla,guide, Research,13
+246,UI-UX,hackforla,guide, Review Guide,1
+247,UI-UX,hackforla,role, CoP Lead - Design,1
+248,UI-UX,hackforla,role, CoP Lead - content,1
+249,UI-UX,hackforla,role, Content,1
+250,UI-UX,hackforla,role, UI Design,12
+251,UI-UX,hackforla,role, UX Research,5
+252,UI-UX,hackforla,tg, Adopt Me!,5
+253,VRMS,hackforla,feature, Onboarding - p1,3
+254,VRMS,hackforla,feature, Project Management,13
+255,VRMS,hackforla,feature, Recurring Events,7
+256,VRMS,hackforla,feature, eslint warnings,45
+257,VRMS,hackforla,feature, missing,22
+258,VRMS,hackforla,feature, package update,16
+259,VRMS,hackforla,feature 3, Dashboard,1
+260,VRMS,hackforla,p-feature, Events,2
+261,VRMS,hackforla,p-feature, Login,4
+262,VRMS,hackforla,p-feature, Navigation,2
+263,VRMS,hackforla,p-feature, Profile,1
+264,VRMS,hackforla,p-feature, Projects,2
+265,VRMS,hackforla,role, Back End,127
+266,VRMS,hackforla,role, Database,29
+267,VRMS,hackforla,role, Front End,226
+268,VRMS,hackforla,role, Missing,33
+269,VRMS,hackforla,role, Product,5
+270,VRMS,hackforla,role, devops,6
+271,VRMS,hackforla,size, 1pt,117
+272,VRMS,hackforla,size, 2pt,16
+273,VRMS,hackforla,size, 3pt,4
+274,VRMS,hackforla,size, 5pt,1
+275,VRMS,hackforla,size, missing,66
+276,VRMS,hackforla,stakeholder update, Meeting Times,26
+277,Website,100automations,feature, Architecture / Standards,10
+278,Website,100automations,feature, GitHub board/onboarding,3
+279,Website,100automations,feature, Project Framework,9
+280,Website,100automations,feature, Roadmap,4
+281,Website,100automations,feature, Service Journeys,16
+282,Website,100automations,feature, Usability testing,2
+283,Website,100automations,feature, accessibility,3
+284,Website,100automations,feature, image utilities,1
+285,Website,100automations,feature, missing,13
+286,Website,100automations,feature, outreach,3
+287,Website,100automations,okr, 00.01,1
+288,Website,100automations,okr, 01.02,1
+289,Website,100automations,okr, 01.03,3
+290,Website,100automations,okr, 02.04,1
+291,Website,100automations,okr, 02.05,1
+292,Website,100automations,okr, 02.06,1
+293,Website,100automations,okr, 03.07,1
+294,Website,100automations,p-feature, About,10
+295,Website,100automations,p-feature, Bios,12
+296,Website,100automations,p-feature, Getting Involved,1
+297,Website,100automations,p-feature, Guides homepage,3
+298,Website,100automations,p-feature, Homepage,8
+299,Website,100automations,p-feature, Idea Submission,4
+300,Website,100automations,p-feature, Press,24
+301,Website,100automations,p-feature, Terms and Conditions,2
+302,Website,100automations,p-feature, automations,22
+303,Website,100automations,p-feature, credits,1
+304,Website,100automations,p-feature, guides,44
+305,Website,100automations,p-feature, navigation,3
+306,Website,100automations,p-feature, privacy policy,1
+307,Website,100automations,role, UI/UX,56
+308,Website,100automations,role, administrative,11
+309,Website,100automations,role, back end,25
+310,Website,100automations,role, content writing,36
+311,Website,100automations,role, front end,86
+312,Website,100automations,role, marketing,23
+313,Website,100automations,role, missing,1
+314,Website,100automations,role, product,103
+315,Website,100automations,role, project management,39
+316,Website,100automations,size, 1pt,33
+317,Website,100automations,size, 2pt,10
+318,Website,100automations,size, 3 pt,1
+319,Website,100automations,size, 8 pt.,1
+320,Website,100automations,size, epic,4
+321,Website,100automations,size, missing,100
+322,YouthJusticeNav,hackforla,feature, agenda,1
+323,YouthJusticeNav,hackforla,feature, board/google drive/tools,1
+324,YouthJusticeNav,hackforla,feature, missing,68
+325,YouthJusticeNav,hackforla,feature, volunteer onboarding,1
+326,YouthJusticeNav,hackforla,milestone, missing,40
+327,YouthJusticeNav,hackforla,role, UI/UX design,4
+328,YouthJusticeNav,hackforla,role, UI/UX research,10
+329,YouthJusticeNav,hackforla,role, content writing,2
+330,YouthJusticeNav,hackforla,role, missing,22
+331,YouthJusticeNav,hackforla,role, org rep,2
+332,YouthJusticeNav,hackforla,role, product,36
+333,YouthJusticeNav,hackforla,size, 0.25pt,3
+334,YouthJusticeNav,hackforla,size, 1pt,1
+335,YouthJusticeNav,hackforla,size, missing,67
+336,access-the-data,hackforla,feature, ADA/WCAG Compliance,2
+337,access-the-data,hackforla,feature, Ecosystem Map,7
+338,access-the-data,hackforla,feature, administrative,36
+339,access-the-data,hackforla,feature, content,8
+340,access-the-data,hackforla,feature, design system,24
+341,access-the-data,hackforla,feature, github - wiki maintenance,4
+342,access-the-data,hackforla,feature, personas,3
+343,access-the-data,hackforla,feature, process documentation,3
+344,access-the-data,hackforla,feature, recruitment,10
+345,access-the-data,hackforla,feature, usability testing,10
+346,access-the-data,hackforla,feature, user research,20
+347,access-the-data,hackforla,feature, user stories,2
+348,access-the-data,hackforla,feature, website,34
+349,access-the-data,hackforla,feature, wireframes,4
+350,access-the-data,hackforla,feature, workshops,46
+351,access-the-data,hackforla,guide, 311 data,8
+352,access-the-data,hackforla,p-feature, navigation,1
+353,access-the-data,hackforla,role, content,9
+354,access-the-data,hackforla,role, data analyst,42
+355,access-the-data,hackforla,role, design,27
+356,access-the-data,hackforla,role, engineering,1
+357,access-the-data,hackforla,role, org,1
+358,access-the-data,hackforla,role, product management,36
+359,access-the-data,hackforla,role, project management,16
+360,access-the-data,hackforla,role, research,53
+361,access-the-data,hackforla,size, 1 pt,92
+362,access-the-data,hackforla,size, 2 pts,47
+363,access-the-data,hackforla,size, 3 pts,21
+364,access-the-data,hackforla,size, 5 pts,14
+365,access-the-data,hackforla,size, 8 pts,4
+366,access-the-data,hackforla,workshop, 311 data,30
+367,admin,hackforla,0.1-status, Setup Epic,2
+368,admin,hackforla,0.3-status, Recording Tool Overview,1
+369,admin,hackforla,0.5-status, Identify workflows - Admin,10
+370,admin,hackforla,1.2-status, Record,2
+371,admin,hackforla,1.4-status," Create ""As-Is""",2
+372,admin,hackforla,1.6-status, Draft Guide,1
+373,admin,hackforla,1.7-status, Review Guide,5
+374,admin,hackforla,1.8-status, Final Accessibility and Format Review,1
+375,admin,hackforla,epic, 1password,10
+376,admin,hackforla,epic, Google Site,1
+377,admin,hackforla,epic, templates for issue format,1
+378,admin,hackforla,feature, Agenda,1
+379,admin,hackforla,feature, guide creation,15
+380,admin,hackforla,feature, volunteer request,1
+381,admin,hackforla,role, org,1
+382,admin,hackforla,role, product,3
+383,admin,hackforla,size, 1pt,2
+384,admin,hackforla,tg, Gather Examples,6
+385,admin,hackforla,tg, Place Guide,1
+386,ballotnav,hackforla,feature, Design system,1
+387,ballotnav,hackforla,role, Data,6
+388,ballotnav,hackforla,role, UI/UX,57
+389,ballotnav,hackforla,role, back end/devOps,57
+390,ballotnav,hackforla,role, design,3
+391,ballotnav,hackforla,role, front end,65
+392,ballotnav,hackforla,role, product,21
+393,ballotnav,hackforla,role, user research,4
+394,ballotnav,hackforla,role, writer,2
+395,ballotnav,hackforla,role, writing,5
+396,ballotnav,hackforla,size, good second issue,6
+397,ballotnav,hackforla,size, large,16
+398,ballotnav,hackforla,size, medium,13
+399,brigade2point0,hackforla,feature, donation,1
+400,brigade2point0,hackforla,feature, guides,1
+401,civic-opportunity,hackforla,feature, role descriptions,32
+402,civic-opportunity,hackforla,initiative, automation components,3
+403,civic-opportunity,hackforla,initiative, communities of practice,9
+404,civic-opportunity,hackforla,initiative, pilot projects,25
+405,civic-opportunity,hackforla,initiative, recruitment and partnerships,29
+406,civic-opportunity,hackforla,initiative, role definitions,32
+407,civic-opportunity,hackforla,role, content strategist/writer,3
+408,civic-opportunity,hackforla,role, data analyst,4
+409,civic-opportunity,hackforla,role, marketing,7
+410,civic-opportunity,hackforla,role, partner management,17
+411,civic-opportunity,hackforla,role, pilot owner,21
+412,civic-opportunity,hackforla,role, product management,88
+413,civic-opportunity,hackforla,role, ux designer,8
+414,civic-opportunity,hackforla,role, ux research,25
+415,community-survey-nc-websites,hackforla,role, Product/Project Management,2
+416,community-survey-nc-websites,hackforla,role, front end,1
+417,community-survey-nc-websites,hackforla,role, ui,2
+418,community-survey-nc-websites,hackforla,role, ux research,1
+419,data-science,hackforla,epic, 311 public data sets,3
+420,data-science,hackforla,epic, GreenEarthOS,1
+421,data-science,hackforla,epic, empowerla.org,1
+422,data-science,hackforla,epic, potential projects,1
+423,data-science,hackforla,feature, branding,1
+424,data-science,hackforla,feature, guide,31
+425,data-science,hackforla,feature, labels,1
+426,data-science,hackforla,feature, missing,1
+427,data-science,hackforla,feature, needs peer review,1
+428,data-science,hackforla,feature, onboarding,2
+429,data-science,hackforla,feature, project management,6
+430,data-science,hackforla,feature, recruitment,1
+431,data-science,hackforla,guide, Research,1
+432,data-science,hackforla,project, 311 Data,6
+433,data-science,hackforla,project, 311-data-dashboards,1
+434,data-science,hackforla,project, Climate Collabathon,1
+435,data-science,hackforla,project, LAANE,1
+436,data-science,hackforla,project, Native Land Attribution,1
+437,data-science,hackforla,project, OCS,1
+438,data-science,hackforla,project, climate projects,1
+439,data-science,hackforla,project, district types,2
+440,data-science,hackforla,project, health services,1
+441,data-science,hackforla,project, metro 311 correlation,1
+442,data-science,hackforla,project, missing,1
+443,data-science,hackforla,project, seie,1
+444,data-science,hackforla,project, structured context,1
+445,data-science,hackforla,project duration, one time,4
+446,data-science,hackforla,project duration, ongoing,1
+447,data-science,hackforla,project duration, unknown,4
+448,data-science,hackforla,role, CoP lead,4
+449,data-science,hackforla,role, Data Engineer,1
+450,data-science,hackforla,role, data analysis,11
+451,data-science,hackforla,role, data science,8
+452,data-science,hackforla,role, org,14
+453,data-science,hackforla,role, product,17
+454,data-science,hackforla,size, 1pt,32
+455,data-science,hackforla,size, 2pt,5
+456,data-science,hackforla,size, 3pt,2
+457,data-science,hackforla,size, 5pt,1
+458,data-science,hackforla,size, 8pt,2
+459,data-science,hackforla,size, epic,11
+460,data-science,hackforla,size, missing,1
+461,data-science,hackforla,tg, Draft Template,1
+462,engage-backend,hackla-engage,priority, Critical,2
+463,engage-backend,hackla-engage,priority, High,8
+464,engage-backend,hackla-engage,priority, Low,13
+465,engage-backend,hackla-engage,priority, Medium,7
+466,engage-backend,hackla-engage,status, Abandoned,3
+467,engage-backend,hackla-engage,status, Backlog,3
+468,engage-backend,hackla-engage,status, Help Wanted,6
+469,engage-backend,hackla-engage,status, In-Progress,8
+470,engage-backend,hackla-engage,status, Pending,6
+471,engage-backend,hackla-engage,type, Bug,8
+472,engage-backend,hackla-engage,type, Documentation,2
+473,engage-backend,hackla-engage,type, Enhancement,15
+474,engage-backend,hackla-engage,type, Maintenance,4
+475,engage-backend,hackla-engage,type, Question(s),2
+476,engage-client,hackla-engage,priority, Critical,5
+477,engage-client,hackla-engage,priority, High,15
+478,engage-client,hackla-engage,priority, Low,16
+479,engage-client,hackla-engage,priority, Medium,12
+480,engage-client,hackla-engage,status, Accepted,8
+481,engage-client,hackla-engage,status, Backlog,6
+482,engage-client,hackla-engage,status, Help Wanted,15
+483,engage-client,hackla-engage,status, In-Progress,5
+484,engage-client,hackla-engage,status, Pending,7
+485,engage-client,hackla-engage,status, Proposal,1
+486,engage-client,hackla-engage,status, Review Requested,1
+487,engage-client,hackla-engage,status, Revision Requested,3
+488,engage-client,hackla-engage,type, Bug,6
+489,engage-client,hackla-engage,type, Documentation,1
+490,engage-client,hackla-engage,type, Enhancement,26
+491,engage-client,hackla-engage,type, Maintenance,4
+492,engage-client,hackla-engage,type, Mobile,5
+493,engage-client,hackla-engage,type, UI/UX Design,7
+494,engineering,hackforla,feature, guide creation,6
+495,engineering,hackforla,tg, Draft Template,1
+496,engineering,hackforla,tg, Gather Examples,6
+497,expunge-assist,hackforla,dependency, missing,8
+498,expunge-assist,hackforla,feature, Communication/Branding,1
+499,expunge-assist,hackforla,feature, GitHub/Project Board maintenance,6
+500,expunge-assist,hackforla,feature, Style Guide,4
+501,expunge-assist,hackforla,feature, agenda,7
+502,expunge-assist,hackforla,feature, figma content writing,44
+503,expunge-assist,hackforla,feature, figma design system,9
+504,expunge-assist,hackforla,feature, figma desktop prototype,2
+505,expunge-assist,hackforla,feature, figma heuristic evaluation,3
+506,expunge-assist,hackforla,feature, figma mobile prototype,2
+507,expunge-assist,hackforla,feature, figma wireframes,2
+508,expunge-assist,hackforla,feature, marketing plans,1
+509,expunge-assist,hackforla,feature, missing,78
+510,expunge-assist,hackforla,feature, onboard / offboard,3
+511,expunge-assist,hackforla,feature, outreach,20
+512,expunge-assist,hackforla,feature, recruitment,1
+513,expunge-assist,hackforla,feature, research analysis,3
+514,expunge-assist,hackforla,feature, research plans,8
+515,expunge-assist,hackforla,feature, roadmap,2
+516,expunge-assist,hackforla,feature, technical standards,3
+517,expunge-assist,hackforla,feature, usability testing,30
+518,expunge-assist,hackforla,feature, wiki,6
+519,expunge-assist,hackforla,p-feature, About Us,1
+520,expunge-assist,hackforla,p-feature, Introduce Yourself,1
+521,expunge-assist,hackforla,p-feature, Life Changes,1
+522,expunge-assist,hackforla,p-feature, Privacy Policy,2
+523,expunge-assist,hackforla,p-feature, URL String Parameters,1
+524,expunge-assist,hackforla,p-feature, landing page,15
+525,expunge-assist,hackforla,priority, high,153
+526,expunge-assist,hackforla,priority, low,49
+527,expunge-assist,hackforla,priority, medium,77
+528,expunge-assist,hackforla,priority, missing,41
+529,expunge-assist,hackforla,role, UX content writing,63
+530,expunge-assist,hackforla,role, communications,8
+531,expunge-assist,hackforla,role, design,61
+532,expunge-assist,hackforla,role, development,134
+533,expunge-assist,hackforla,role, missing,5
+534,expunge-assist,hackforla,role, product management,34
+535,expunge-assist,hackforla,role, research,114
+536,expunge-assist,hackforla,size, 1pt,67
+537,expunge-assist,hackforla,size, 2pt,28
+538,expunge-assist,hackforla,size, 3pt,19
+539,expunge-assist,hackforla,size, 5pt,16
+540,expunge-assist,hackforla,size, 8pt,4
+541,expunge-assist,hackforla,size, good first issue,57
+542,expunge-assist,hackforla,size, good second issue,10
+543,expunge-assist,hackforla,size, large,21
+544,expunge-assist,hackforla,size, medium,33
+545,expunge-assist,hackforla,size, missing,62
+546,food-oasis,hackforla,feature, Accessibility,13
+547,food-oasis,hackforla,feature, Administrative,18
+548,food-oasis,hackforla,feature, Agenda,5
+549,food-oasis,hackforla,feature, Analytics,6
+550,food-oasis,hackforla,feature, Board/Github Maintenance,6
+551,food-oasis,hackforla,feature, Design System,16
+552,food-oasis,hackforla,feature, Infrastructure,22
+553,food-oasis,hackforla,feature, Onboarding,4
+554,food-oasis,hackforla,feature, Search,7
+555,food-oasis,hackforla,feature, Testing,2
+556,food-oasis,hackforla,feature, Usability,27
+557,food-oasis,hackforla,milestone, Project Organisation,4
+558,food-oasis,hackforla,missing, Feature,2
+559,food-oasis,hackforla,missing, Milestone,103
+560,food-oasis,hackforla,missing, Role,1
+561,food-oasis,hackforla,missing, Size,36
+562,food-oasis,hackforla,p-feature, Admin Dashboard,18
+563,food-oasis,hackforla,p-feature, Landing Page,8
+564,food-oasis,hackforla,p-feature, Map,31
+565,food-oasis,hackforla,p-feature, Organization Form,18
+566,food-oasis,hackforla,p-feature, Organizations,15
+567,food-oasis,hackforla,p-feature, Registration / Login,2
+568,food-oasis,hackforla,p-feature, Stakeholder Record,3
+569,food-oasis,hackforla,p-feature, Suggestions,2
+570,food-oasis,hackforla,p-feature, Tenant Specific Other,2
+571,food-oasis,hackforla,p-feature, Tenant Specific Static Content,2
+572,food-oasis,hackforla,p-feature, Volunteer Dashboard,10
+573,food-oasis,hackforla,partner, Code for Hawaii,5
+574,food-oasis,hackforla,partner, McKinney TX,1
+575,food-oasis,hackforla,pm, Food Seekers,46
+576,food-oasis,hackforla,pm, Volunteers,35
+577,food-oasis,hackforla,release note, Bug,102
+578,food-oasis,hackforla,release note, Enhancement,127
+579,food-oasis,hackforla,release note, Refactor,6
+580,food-oasis,hackforla,release note, System Update,5
+581,food-oasis,hackforla,release note, Tech Debt,23
+582,food-oasis,hackforla,role, Back-end,48
+583,food-oasis,hackforla,role, Business Analysis / Product,33
+584,food-oasis,hackforla,role, Copywriting,7
+585,food-oasis,hackforla,role, Database,7
+586,food-oasis,hackforla,role, Design UI/UX,96
+587,food-oasis,hackforla,role, Front-end,175
+588,food-oasis,hackforla,role, Product Management,58
+589,food-oasis,hackforla,role, User Research,17
+590,food-oasis,hackforla,size, 13pt,1
+591,food-oasis,hackforla,size, 1pt,88
+592,food-oasis,hackforla,size, 2pt,65
+593,food-oasis,hackforla,size, 3pt,41
+594,food-oasis,hackforla,size, 5pt,24
+595,food-oasis,hackforla,size, 8pt,12
+596,futureautomations,100automations,role, administrative,14
+597,governance,hackforla,feature, 1password,2
+598,governance,hackforla,feature, stakeholder status,3
+599,guides,hackforla,epic, Interviews with CoP leads,1
+600,guides,hackforla,epic, add leadership edits requested,1
+601,guides,hackforla,feature,  Communications Guide,1
+602,guides,hackforla,feature, Cleanup Guide,23
+603,guides,hackforla,feature, Design System,1
+604,guides,hackforla,feature, administrative,13
+605,guides,hackforla,feature, board/GitHub maintenance,1
+606,guides,hackforla,feature, evangelize,1
+607,guides,hackforla,feature, guide conversion,1
+608,guides,hackforla,feature, offboarding,2
+609,guides,hackforla,feature, onboarding,21
+610,guides,hackforla,feature, trackers,16
+611,guides,hackforla,feature, user research,3
+612,guides,hackforla,feature, weekly tasks,1
+613,guides,hackforla,feature, workflow,4
+614,guides,hackforla,p-feature, guidance,26
+615,guides,hackforla,p-feature, landing page,7
+616,guides,hackforla,p-feature, wiki,3
+617,guides,hackforla,role, Product,92
+618,guides,hackforla,role, UI/UX,2
+619,guides,hackforla,role, UI/UX research,3
+620,guides,hackforla,role, design,1
+621,guides,hackforla,role, front end,1
+622,guides,hackforla,role, missing,1
+623,guides,hackforla,size, 13+pt,2
+624,guides,hackforla,size, 1pt,63
+625,guides,hackforla,size, 2pt,11
+626,guides,hackforla,size, 3pt,6
+627,guides,hackforla,size, missing,8
+628,incubator,hackforla,role, Dev Ops Engineer,1
+629,internship,hackforla,feature, C&C Analysis,8
+630,internship,hackforla,feature, FAQ for Volunteers,1
+631,internship,hackforla,feature, HfLA: research training,2
+632,internship,hackforla,feature, HfLA: volunteer personas,1
+633,internship,hackforla,feature, IS21: cohort analysis,1
+634,internship,hackforla,feature, IS21: cohort interviews,7
+635,internship,hackforla,feature, IS22 cohort,42
+636,internship,hackforla,feature, Intern cohort survey,1
+637,internship,hackforla,feature, RP1,12
+638,internship,hackforla,feature, RP2,3
+639,internship,hackforla,feature, RP3,3
+640,internship,hackforla,feature, RP4,3
+641,internship,hackforla,feature, RP5,8
+642,internship,hackforla,feature, RP6,5
+643,internship,hackforla,feature, RP7,2
+644,internship,hackforla,feature, RP8,3
+645,internship,hackforla,feature, agenda,6
+646,internship,hackforla,feature, audience development,1
+647,internship,hackforla,feature, board / google drive / tools,11
+648,internship,hackforla,feature, board cleanup,1
+649,internship,hackforla,feature, branding,46
+650,internship,hackforla,feature, deck,1
+651,internship,hackforla,feature, evangelize,1
+652,internship,hackforla,feature, find speaking opportunities,1
+653,internship,hackforla,feature, funding,1
+654,internship,hackforla,feature, guide,3
+655,internship,hackforla,feature, hypothesis,1
+656,internship,hackforla,feature, intern personas,1
+657,internship,hackforla,feature, logo,2
+658,internship,hackforla,feature, metrics,4
+659,internship,hackforla,feature, missing,14
+660,internship,hackforla,feature, one sheet,2
+661,internship,hackforla,feature, overview,1
+662,internship,hackforla,feature, partner communication,4
+663,internship,hackforla,feature, recruitment,9
+664,internship,hackforla,feature, research audits,1
+665,internship,hackforla,feature, research plan,2
+666,internship,hackforla,feature, retention,1
+667,internship,hackforla,feature, roadmap,4
+668,internship,hackforla,feature, skills assesment,1
+669,internship,hackforla,feature, stats,1
+670,internship,hackforla,feature, test,1
+671,internship,hackforla,feature, testing,1
+672,internship,hackforla,feature, volunteer onboarding,9
+673,internship,hackforla,feature, wiki,8
+674,internship,hackforla,milestone, missing,22
+675,internship,hackforla,p-feature, FAQ for Interns,2
+676,internship,hackforla,p-feature, Linkedin profile,7
+677,internship,hackforla,p-feature, Resources for Interns,1
+678,internship,hackforla,p-feature, mentorship guide,3
+679,internship,hackforla,p-feature, recommendation guide,1
+680,internship,hackforla,research plan status, approved,1
+681,internship,hackforla,research plan status, draft,1
+682,internship,hackforla,role, Org Rep,6
+683,internship,hackforla,role, Product,123
+684,internship,hackforla,role, UI/UX design,23
+685,internship,hackforla,role, UI/UX research,41
+686,internship,hackforla,role, UX writer,4
+687,internship,hackforla,role, data scientist,3
+688,internship,hackforla,role, intern,28
+689,internship,hackforla,role, missing,8
+690,internship,hackforla,size, 0.25pt,5
+691,internship,hackforla,size, 0.50pt,10
+692,internship,hackforla,size, 13+pt,7
+693,internship,hackforla,size, 1pt,132
+694,internship,hackforla,size, 2pt,20
+695,internship,hackforla,size, 3pt,9
+696,internship,hackforla,size, 5pt,10
+697,internship,hackforla,size, 8pt,5
+698,internship,hackforla,size, missing,11
+699,lucky-parking,hackforla,complexity, large,28
+700,lucky-parking,hackforla,complexity, medium,27
+701,lucky-parking,hackforla,complexity, small,42
+702,lucky-parking,hackforla,feature, GitHub hygiene,7
+703,lucky-parking,hackforla,feature, agenda,2
+704,lucky-parking,hackforla,feature, api endpoints,1
+705,lucky-parking,hackforla,feature, automation/GitHub actions,3
+706,lucky-parking,hackforla,feature, code structure,1
+707,lucky-parking,hackforla,feature, data science,2
+708,lucky-parking,hackforla,feature, database,7
+709,lucky-parking,hackforla,feature, middleware,1
+710,lucky-parking,hackforla,feature, new feature ideation,8
+711,lucky-parking,hackforla,feature, project marketing,2
+712,lucky-parking,hackforla,feature, recruitment/onboarding,7
+713,lucky-parking,hackforla,feature, refactor,1
+714,lucky-parking,hackforla,feature, security,4
+715,lucky-parking,hackforla,feature, wiki,2
+716,lucky-parking,hackforla,missing, complexity,19
+717,lucky-parking,hackforla,missing, feature,27
+718,lucky-parking,hackforla,missing, milestone,1
+719,lucky-parking,hackforla,missing, role,20
+720,lucky-parking,hackforla,missing, size,27
+721,lucky-parking,hackforla,p-feature, map tools,5
+722,lucky-parking,hackforla,p-feature, search,1
+723,lucky-parking,hackforla,priority, high,36
+724,lucky-parking,hackforla,priority, low,10
+725,lucky-parking,hackforla,priority, medium,25
+726,lucky-parking,hackforla,role, backend,13
+727,lucky-parking,hackforla,role, data scientist,14
+728,lucky-parking,hackforla,role, dev,65
+729,lucky-parking,hackforla,role, devops,11
+730,lucky-parking,hackforla,role, frontend,15
+731,lucky-parking,hackforla,role, product manager,24
+732,lucky-parking,hackforla,role, ui/ux,20
+733,lucky-parking,hackforla,size, 13+pt,8
+734,lucky-parking,hackforla,size, 1pt,20
+735,lucky-parking,hackforla,size, 2pt,8
+736,lucky-parking,hackforla,size, 3pt,4
+737,lucky-parking,hackforla,size, 5pt,4
+738,lucky-parking,hackforla,size, 8pt,10
+739,lucky-parking,hackforla,status, duplicate,4
+740,lucky-parking,hackforla,status, help wanted,3
+741,lucky-parking,hackforla,type, bug,8
+742,lucky-parking,hackforla,type, dependencies,12
+743,lucky-parking,hackforla,type, documentation,4
+744,lucky-parking,hackforla,type, enhancement,42
+745,lucky-parking,hackforla,type, question/discussion,6
+746,lucky-parking,hackforla,type, stakeholder_relations,4
+747,lucky-parking,hackforla,urgency, not urgent,3
+748,marketing,hackforla,feature, Guide,1
+749,marketing,hackforla,feature, article,1
+750,marketing,hackforla,feature, marketing inventory checklist,8
+751,marketing,hackforla,feature, marketing objectives,18
+752,marketing,hackforla,feature, template,2
+753,marketing,hackforla,level, Have Training,5
+754,marketing,hackforla,level, Learning,23
+755,marketing,hackforla,role, Product Management,1
+756,marketing,hackforla,role, social media marketing,2
+757,marketing,hackforla,size, 1pt,1
+758,marketing,hackforla,skill, Brand Development,1
+759,marketing,hackforla,skill, Brand Messaging,2
+760,marketing,hackforla,skill, Brand Strategy,22
+761,marketing,hackforla,skill, Community Outreach,2
+762,marketing,hackforla,skill, Content Strategy,2
+763,marketing,hackforla,skill, Digital Marketing,23
+764,marketing,hackforla,skill, Media Strategy,22
+765,marketing,hackforla,skill, PR,2
+766,marketing,hackforla,skill, Paid Social,1
+767,marketing,hackforla,skill, Project Management,3
+768,marketing,hackforla,skill, SEO,1
+769,marketing,hackforla,tg, Gather Examples,1
+770,open-community-survey,hackforla,feature, Analytics,1
+771,open-community-survey,hackforla,feature, Board/GitHub Maintenance,7
+772,open-community-survey,hackforla,feature, Communication/Branding,4
+773,open-community-survey,hackforla,feature, Comparative Analysis,11
+774,open-community-survey,hackforla,feature, Epic,7
+775,open-community-survey,hackforla,feature, Expert Interviews,1
+776,open-community-survey,hackforla,feature, Figma/Miro/FigJam Setup,14
+777,open-community-survey,hackforla,feature, Framework Project Publication,2
+778,open-community-survey,hackforla,feature, Guides Creation,1
+779,open-community-survey,hackforla,feature, HfLA Website,5
+780,open-community-survey,hackforla,feature, Impact Interview,7
+781,open-community-survey,hackforla,feature, Meeting/Agenda,2
+782,open-community-survey,hackforla,feature, Onboarding,2
+783,open-community-survey,hackforla,feature, One Sheet,1
+784,open-community-survey,hackforla,feature, Personas,4
+785,open-community-survey,hackforla,feature, Recruitment,12
+786,open-community-survey,hackforla,feature, Roadmap,18
+787,open-community-survey,hackforla,feature, Social Media,1
+788,open-community-survey,hackforla,feature, Survey,1
+789,open-community-survey,hackforla,feature, Usability Testing,3
+790,open-community-survey,hackforla,feature, Wiki,1
+791,open-community-survey,hackforla,feature, service map,1
+792,open-community-survey,hackforla,p-feature, About Us,2
+793,open-community-survey,hackforla,p-feature, Credits,1
+794,open-community-survey,hackforla,p-feature, EmpowerLA Website Page,1
+795,open-community-survey,hackforla,p-feature, Get Involved,1
+796,open-community-survey,hackforla,p-feature, Home Page,1
+797,open-community-survey,hackforla,p-feature, NC Websites Analysis Page,2
+798,open-community-survey,hackforla,p-feature, NC Websites Page,1
+799,open-community-survey,hackforla,p-feature, Navigation,1
+800,open-community-survey,hackforla,p-feature, Privacy Policy,2
+801,open-community-survey,hackforla,p-feature, Website Content,6
+802,open-community-survey,hackforla,project, 99 NC website analysis,7
+803,open-community-survey,hackforla,role, Data Science,2
+804,open-community-survey,hackforla,role, Product,74
+805,open-community-survey,hackforla,role, UI/UX Design,19
+806,open-community-survey,hackforla,role, UI/UX Research,19
+807,open-community-survey,hackforla,role, writer,1
+808,open-community-survey,hackforla,size, 13+pt,3
+809,open-community-survey,hackforla,size, 1pt,70
+810,open-community-survey,hackforla,size, 2pt,14
+811,open-community-survey,hackforla,size, 3pt,15
+812,open-community-survey,hackforla,size, 5pt,5
+813,open-community-survey,hackforla,size, 8pt,8
+814,ops,hackforla,feature, AWS IAM,1
+815,ops,hackforla,feature, Roadmap,2
+816,ops,hackforla,feature, administrative,3
+817,ops,hackforla,feature, agenda,2
+818,ops,hackforla,feature, guide creation,5
+819,ops,hackforla,feature, incubator,1
+820,ops,hackforla,feature, labels,2
+821,ops,hackforla,feature, missing,2
+822,ops,hackforla,feature, monitoring,1
+823,ops,hackforla,feature, slackbot,2
+824,ops,hackforla,milestone, missing,1
+825,ops,hackforla,p-feature, wiki,1
+826,ops,hackforla,role, CoP lead,8
+827,ops,hackforla,role, Org,3
+828,ops,hackforla,role, Site Reliability Engineer,9
+829,ops,hackforla,role, missing,1
+830,ops,hackforla,size, 0.5pt,6
+831,ops,hackforla,size, 1pt,4
+832,ops,hackforla,size, 2pt,5
+833,ops,hackforla,size, 3pt,3
+834,ops,hackforla,size, missing,3
+835,ops,hackforla,tg, Create Guide,3
+836,ops,hackforla,tg, Draft Template,1
+837,ops,hackforla,tg, Gather Examples,3
+838,ops,hackforla,tg, Review Guide,1
+839,peopledepot,hackforla,feature, table creation,3
+840,peopledepot,hackforla,role, back end,3
+841,peopledepot,hackforla,size, 2pt,1
+842,peopledepot,hackforla,size, 5pt,1
+843,product-management,hackforla,feature, agenda,9
+844,product-management,hackforla,feature, deck profile card,13
+845,product-management,hackforla,feature, experience profile,79
+846,product-management,hackforla,feature, guide creation,65
+847,product-management,hackforla,feature, one sheet,37
+848,product-management,hackforla,feature, privacy policy,1
+849,product-management,hackforla,feature, project inventory,25
+850,product-management,hackforla,feature, project profile card,16
+851,product-management,hackforla,feature, recruitment,4
+852,product-management,hackforla,feature, terms and conditions,1
+853,product-management,hackforla,role, CoP lead,7
+854,product-management,hackforla,tg, Adopt Me!,9
+855,product-management,hackforla,tg, Create Guide,6
+856,product-management,hackforla,tg, Draft Template,4
+857,product-management,hackforla,tg, Gather Examples,40
+858,product-management,hackforla,tg, Leadership Review,3
+859,product-management,hackforla,tg, Review Guide,7
+860,product-management,hackforla,tg, needs edits,3
+861,revenue,hackforla,feature, Guide,3
+862,revenue,hackforla,guide, Leadership Review,1
+863,revenue,hackforla,office, Administrative,1
+864,revenue,hackforla,office, Earned Revenue,1
+865,revenue,hackforla,office, Fundraising,4
+866,revenue,hackforla,stage, evaluation,1
+867,shared-housing,hackforla,difficulty, starter,2
+868,shared-housing,hackforla,feature, dashboard,21
+869,shared-housing,hackforla,feature, form,17
+870,shared-housing,hackforla,priority, high,2
+871,shared-housing,hackforla,size, L,2
+872,shared-housing,hackforla,size, S,8
+873,shared-housing,hackforla,type, bug,1
+874,shared-housing,hackforla,type, documentation,9
+875,shared-housing,hackforla,type, enhancement,1
+876,start-here,hackla-engage,role, UX,2
+877,tables,hackforla,feature, GitHub Maintenance,1
+878,tables,hackforla,missing, complexity,1
+879,tables,hackforla,missing, feature,12
+880,tables,hackforla,missing, milestone,1
+881,tables,hackforla,missing, role,12
+882,tables,hackforla,missing, size,12
+883,tables,hackforla,role, product,1
+884,tables,hackforla,size, 0.5pt,1
+885,tdm-calculator,hackforla,dev, technical debt,19
+886,tdm-calculator,hackforla,dev, tests,16
+887,tdm-calculator,hackforla,epic, UX R1 feature improvement,25
+888,tdm-calculator,hackforla,feature, missing,6
+889,tdm-calculator,hackforla,level, easy,102
+890,tdm-calculator,hackforla,level, hard,43
+891,tdm-calculator,hackforla,level, medium,125
+892,tdm-calculator,hackforla,level, missing,30
+893,tdm-calculator,hackforla,milestone, missing,97
+894,tdm-calculator,hackforla,nia status, crafting,14
+895,tdm-calculator,hackforla,priority, Could Have,44
+896,tdm-calculator,hackforla,priority, MUST HAVE,128
+897,tdm-calculator,hackforla,priority, MUST HAVE -DEV FREEZE,8
+898,tdm-calculator,hackforla,priority, SHOULD HAVE,87
+899,tdm-calculator,hackforla,priority, WON'T HAVE THIS TIME,4
+900,tdm-calculator,hackforla,priority, missing,52
+901,tdm-calculator,hackforla,priority, won't fix,1
+902,tdm-calculator,hackforla,role, Project Management,56
+903,tdm-calculator,hackforla,role, back-end,122
+904,tdm-calculator,hackforla,role, database,99
+905,tdm-calculator,hackforla,role, front-end,245
+906,tdm-calculator,hackforla,role, missing,13
+907,tdm-calculator,hackforla,role, ui/ux,108
+908,tdm-calculator,hackforla,role, ui/ux design,9
+909,tdm-calculator,hackforla,role, ui/ux research,11
+910,website,hackforla,feature, Accessibility,148
+911,website,hackforla,feature, Administrative,102
+912,website,hackforla,feature, Analytics,10
+913,website,hackforla,feature, Board/GitHub Maintenance,91
+914,website,hackforla,feature, Design system,80
+915,website,hackforla,feature, Feature Branch,25
+916,website,hackforla,feature, Google Apps Scripts,6
+917,website,hackforla,feature, Infrastructure,24
+918,website,hackforla,feature, Onboarding/Contributing.md,166
+919,website,hackforla,feature, Refactor CSS,65
+920,website,hackforla,feature, Refactor GHA,15
+921,website,hackforla,feature, Refactor HTML,43
+922,website,hackforla,feature, Refactor JS / Liquid,52
+923,website,hackforla,feature, Standards,14
+924,website,hackforla,feature, Survey,1
+925,website,hackforla,feature, Tables,1
+926,website,hackforla,feature, Video Research,1
+927,website,hackforla,feature, Wiki,44
+928,website,hackforla,feature, research plan,11
+929,website,hackforla,feature, stakeholder updates,1
+930,website,hackforla,fun, Third Issue,32
+931,website,hackforla,ignore, Demo,12
+932,website,hackforla,ignore, Duplicate,34
+933,website,hackforla,ignore, No longer a problem,2
+934,website,hackforla,ignore, Test,79
+935,website,hackforla,p-feature, 404 page,5
+936,website,hackforla,p-feature, About Us,58
+937,website,hackforla,p-feature, Citizen Engagement,38
+938,website,hackforla,p-feature, Communities of Practice,30
+939,website,hackforla,p-feature, Contributors,1
+940,website,hackforla,p-feature, Credit,180
+941,website,hackforla,p-feature, Dashboard,4
+942,website,hackforla,p-feature, Donate,22
+943,website,hackforla,p-feature, Events,50
+944,website,hackforla,p-feature, Footer,9
+945,website,hackforla,p-feature, Getting Started,30
+946,website,hackforla,p-feature, Home page,42
+947,website,hackforla,p-feature, Impact,2
+948,website,hackforla,p-feature, Join Page,14
+949,website,hackforla,p-feature, Mobile,11
+950,website,hackforla,p-feature, Navigation,6
+951,website,hackforla,p-feature, Open roles,3
+952,website,hackforla,p-feature, Organizational Page,10
+953,website,hackforla,p-feature, Privacy Policy,4
+954,website,hackforla,p-feature, Program Area,39
+955,website,hackforla,p-feature, Project Info and Page,291
+956,website,hackforla,p-feature, Project Meetings,3
+957,website,hackforla,p-feature, Projects page,34
+958,website,hackforla,p-feature, Related Collateral,1
+959,website,hackforla,p-feature, SDG page,2
+960,website,hackforla,p-feature, Sitemap,13
+961,website,hackforla,p-feature, Toolkit,51
+962,website,hackforla,p-feature, Wins Page,142
+963,website,hackforla,role, BA,1
+964,website,hackforla,role, back end/devOps,615
+965,website,hackforla,role, design,119
+966,website,hackforla,role, dev leads,14
+967,website,hackforla,role, front end,1356
+968,website,hackforla,role, hfla leadership,5
+969,website,hackforla,role, infrastructure,22
+970,website,hackforla,role, legal,1
+971,website,hackforla,role, product,164
+972,website,hackforla,role, user research,58
+973,website,hackforla,role, writing,25
+974,website,hackforla,size, 0.5pt,371
+975,website,hackforla,size, 13+pt,9
+976,website,hackforla,size, 1pt,219
+977,website,hackforla,size, 2pt,68
+978,website,hackforla,size, 3pt,21
+979,website,hackforla,size, 5pt,5
+980,website,hackforla,size, 8pt,5
+981,website,hackforla,size, Good second issue,316
+982,website,hackforla,size, Large,151
+983,website,hackforla,size, Medium,443
+984,website,hackforla,size, Small,286
+985,website,hackforla,size, missing,46
+986,website,hackforla,status, Help Wanted,20
+987,website,hackforla,status, Updated,403
+988,website,hackforla,status, Urgent,82
+989,website,hackforla,uat, has visuals,30
+990,website,hackforla,uat, no visuals,18
