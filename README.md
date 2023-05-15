@@ -1,6 +1,6 @@
 # hack4la-projects
 
-Projects taken on by working for Hack for LA. Code and datasets will be organized based on their respective project.
+Portfolio of projects taken on by working for Hack for LA. As a member of the Data Science Community of Practice Team at Hack for LA, data science and analysis projects are taken on through a lens of community improvement and service. Code and datasets will be organized based on their respective project.
 
 **Included Projects:**
 
